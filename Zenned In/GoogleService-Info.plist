@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>215810796745-4jcf5j6scn4e38kfd1qlgmeia0ssourk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.215810796745-4jcf5j6scn4e38kfd1qlgmeia0ssourk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-wVsX47_D9nF4fedc0WEizXZiVUMyLtU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>215810796745</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loganthompsonus.zennedin</string>
+	<key>PROJECT_ID</key>
+	<string>benderbuddies-58924</string>
+	<key>STORAGE_BUCKET</key>
+	<string>benderbuddies-58924.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:215810796745:ios:8ae0e307cbd1e2efa2f118</string>
+	<key>DATABASE_URL</key>
+	<string>https://benderbuddies-58924-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
