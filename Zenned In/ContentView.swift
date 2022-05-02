@@ -49,7 +49,7 @@ struct ContentView: View {
                     })
                 }
                 }
-            }.navigationTitle("Soundscapes")
+            }.navigationTitle("Noises")
                 .toolbar {
                     ToolbarItemGroup(placement: .navigationBarTrailing) {
                         Button {
